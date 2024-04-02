@@ -3,6 +3,8 @@
 	"author": "Raymond C. Merconchini Velazquez",
 	"description": "project on the json file",
 	"keywords": [ "descriptive", "related", "freecodecamp" ],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
