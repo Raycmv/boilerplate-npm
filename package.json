@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Raymond C. Merconchini Velazquez",
+	"description": "project on the json file",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
